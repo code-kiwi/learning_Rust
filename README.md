@@ -2,7 +2,7 @@
 
 This repository contains my personal work while learning the Rust programming language.
 
-I am mainly following the official book, **:contentReference[oaicite:0]{index=0}**, and experimenting with small examples and exercises along the way.
+I am mainly following the official book and experimenting with small examples and exercises along the way.
 
 ## Goals
 
